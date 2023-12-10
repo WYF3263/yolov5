@@ -1,0 +1,8 @@
+train: D:/Yolov5/VOC2007/dataSet_path/train.txt
+val: D:/Yolov5/VOC2007/dataSet_path/val.txt
+
+# number of classes
+nc: 13
+
+# class names
+names: ["hole", "layer1", "layer2", "layer3", "ball1", "ball2", "ball3", "pillar", "part1", "part2", "spring1", "spring2", "screw"]
